@@ -22,19 +22,19 @@
     "url": "https://subastas.pages.dev/search",
     "icon": "https://icons.duckduckgo.com/ip3/subastas.pages.dev.ico",
     "slug": "dev-subastas-search",
-    "status": "down",
-    "uptime": "7.90%",
-    "uptimeDay": "7.90%",
-    "uptimeWeek": "7.90%",
-    "uptimeMonth": "7.90%",
-    "uptimeYear": "7.90%",
-    "time": 588,
-    "timeDay": 588,
-    "timeWeek": 588,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "status": "up",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 728,
+    "timeDay": 728,
+    "timeWeek": 728,
+    "timeMonth": 728,
+    "timeYear": 728,
     "dailyMinutesDown": {
-      "2024-05-02": 0
+      "2024-05-02": 113
     }
   }
 ]
