@@ -1,20 +1,40 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "[DEV] Subastas - Homepage",
+    "url": "https://subastas.pages.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/subastas.pages.dev.ico",
+    "slug": "dev-subastas-homepage",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 96,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "[DEV] Subastas - Search",
+    "url": "https://subastas.pages.dev/search",
+    "icon": "https://icons.duckduckgo.com/ip3/subastas.pages.dev.ico",
+    "slug": "dev-subastas-search",
+    "status": "down",
+    "uptime": "20.40%",
+    "uptimeDay": "20.40%",
+    "uptimeWeek": "20.40%",
+    "uptimeMonth": "20.40%",
+    "uptimeYear": "20.40%",
+    "time": 588,
+    "timeDay": 588,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
+    "dailyMinutesDown": {
+      "2024-05-02": 0
+    }
   }
 ]
