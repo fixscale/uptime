@@ -7,6 +7,10 @@ sites:
     url: https://subastas.pages.dev
   - name: "[DEV] Subastas - Search"
     url: https://subastas.pages.dev/search
+  - name: "[DEV] Typesense"
+    url: $TYPESENSE_DEV_URL 
+    headers:
+      - "x-typesense-api-key: $TYPESENSE_DEV_API_KEY"
 
 status-website:
   baseUrl: /uptime
