@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 470,
-    "timeWeek": 470,
-    "timeMonth": 470,
-    "timeYear": 470,
+    "time": 508,
+    "timeDay": 508,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/subastas.pages.dev.ico",
     "slug": "dev-subastas-search",
     "status": "up",
-    "uptime": "37.46%",
-    "uptimeDay": "37.46%",
-    "uptimeWeek": "37.46%",
-    "uptimeMonth": "37.46%",
-    "uptimeYear": "37.46%",
-    "time": 888,
-    "timeDay": 888,
-    "timeWeek": 888,
-    "timeMonth": 888,
-    "timeYear": 888,
+    "uptime": "86.44%",
+    "uptimeDay": "86.44%",
+    "uptimeWeek": "86.44%",
+    "uptimeMonth": "86.44%",
+    "uptimeYear": "86.44%",
+    "time": 843,
+    "timeDay": 843,
+    "timeWeek": 843,
+    "timeMonth": 843,
+    "timeYear": 843,
     "dailyMinutesDown": {
-      "2024-05-02": 119
+      "2024-05-02": 113
     }
   },
   {
@@ -43,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-typesense",
     "status": "up",
-    "uptime": "64.12%",
-    "uptimeDay": "64.12%",
-    "uptimeWeek": "64.12%",
-    "uptimeMonth": "64.12%",
-    "uptimeYear": "64.12%",
-    "time": 904,
-    "timeDay": 904,
-    "timeWeek": 904,
-    "timeMonth": 904,
-    "timeYear": 904,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 826,
+    "timeDay": 826,
+    "timeWeek": 826,
+    "timeMonth": 826,
+    "timeYear": 826,
+    "dailyMinutesDown": {}
   }
 ]
