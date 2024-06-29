@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 592,
-    "timeWeek": 592,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "time": 422,
+    "timeDay": 422,
+    "timeWeek": 422,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {}
   },
   {
     "name": "[DEV] Subastic - Search",
-    "url": "https://suvastic.com/search",
-    "icon": "https://icons.duckduckgo.com/ip3/suvastic.com.ico",
+    "url": "https://subastic.com/search",
+    "icon": "https://icons.duckduckgo.com/ip3/subastic.com.ico",
     "slug": "dev-subastic-search",
     "status": "down",
     "uptime": "0.00%",
@@ -28,13 +28,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 606,
+    "timeDay": 606,
+    "timeWeek": 606,
+    "timeMonth": 606,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2024-06-29": 0
+      "2024-06-29": 2
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 846,
-    "timeDay": 772,
-    "timeWeek": 892,
-    "timeMonth": 840,
-    "timeYear": 846,
+    "time": 843,
+    "timeDay": 731,
+    "timeWeek": 865,
+    "timeMonth": 834,
+    "timeYear": 843,
     "dailyMinutesDown": {
       "2024-05-11": 23
     }
