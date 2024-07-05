@@ -22,19 +22,19 @@
     "url": "$TYPESENSE_DEV_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-typesense",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
-    "time": 836,
-    "timeDay": 746,
+    "time": 835,
+    "timeDay": 754,
     "timeWeek": 762,
-    "timeMonth": 845,
-    "timeYear": 836,
+    "timeMonth": 843,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2024-07-05": 0,
+      "2024-07-05": 8,
       "2024-05-11": 23
     }
   }
