@@ -22,7 +22,7 @@
     "url": "$TYPESENSE_DEV_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-typesense",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "95.22%",
     "uptimeWeek": "99.32%",
