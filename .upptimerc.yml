@@ -5,12 +5,12 @@ repo: uptime # The name of this repository
 sites:
   - name: "[DEV] Subastic - Homepage"
     url: https://subastic.com
-  # - name: "[DEV] Subastic - Search"
-  #   url: https://subastic.com/search
-  - name: "[DEV] Typesense"
-    url: $TYPESENSE_DEV_URL 
-    headers:
-      - "x-typesense-api-key: $TYPESENSE_DEV_API_KEY"
+  - name: "[DEV] Subastic - Search"
+    url: https://subastic.com/subastas
+  # - name: "[DEV] Typesense"
+  #   url: $TYPESENSE_DEV_URL 
+  #   headers:
+  #     - "x-typesense-api-key: $TYPESENSE_DEV_API_KEY"
 
 status-website:
   baseUrl: /uptime
